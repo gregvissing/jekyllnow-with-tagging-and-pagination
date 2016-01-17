@@ -1,0 +1,11 @@
+
+<div class="pageNav">
+    {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; Previous</a>
+    <!--<img src="/images{{page.previous.id}}.png">-->
+    {% endif %}
+    {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">Next &raquo;</a>
+    <!--<img src="/images{{page.next.id}}.png">-->
+    {% endif %}
+</div>
