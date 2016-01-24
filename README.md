@@ -1,4 +1,4 @@
-# jekyllnow-pag-and-tag
+# JekyllNow with Tagging and Pagination Enabled
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mikulucky/jekyllnow-pag-and-tag/master/LICENSE)
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs.
